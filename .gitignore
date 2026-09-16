@@ -1,0 +1,22 @@
+# Keil 编译产物
+Objects/
+Listings/
+*.o
+*.axf
+*.hex
+*.bin
+*.map
+*.lst
+*.crf
+*.dep
+*.scvd
+*.bak
+*.uvguix.*
+*.uvopt.bak
+
+# VS Code
+.vscode/
+
+# 系统文件
+.DS_Store
+Thumbs.db
